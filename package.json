@@ -13,7 +13,7 @@
         "axios": "^0.18",
         "bootstrap": "^4.0.0",
         "cross-env": "^5.1",
-        "jquery": "^3.2",
+        "jquery": "^3.5",
         "laravel-mix": "^4.0.7",
         "lodash": "^4.17.5",
         "popper.js": "^1.12",
@@ -30,7 +30,7 @@
         "@fortawesome/fontawesome-free": "^5.8.2",
         "chart.js": "2.7.3",
         "core-js": "^2.5.7",
-        "jquery": "3.3.1",
+        "jquery": "3.5.0",
         "perfect-scrollbar": "^1.4.0",
         "simple-line-icons": "^2.4.1"
     }
